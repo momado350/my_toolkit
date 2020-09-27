@@ -30,3 +30,32 @@ https://hackersandslackers.com/flask-sqlalchemy-database-models/
 
 ## Books
 https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html
+
+### topic
+## development, testing and deploying flask apps
+https://www.toptal.com/flask/flask-production-recipes
+
+## Setting Up SQLite
+Binaries for SQLite can be installed at the SQLite Download page.
+
+Windows
+For Windows machines:
+
+Download the sqlite-tools-win32-x86-3200100.zip file and unzip it.
+From your git-bash terminal, open the directory of the unzipped folder with cd ~/Downloads/sqlite-tools-win32-x86-3200100/sqlite-tools-win32-x86-3200100/.
+Try running sqlite with the command winpty ./sqlite3.exe. If that command opens a sqlite> prompt, congratulations! You’ve installed SQLite.
+We want to be able to access this command quickly from elsewhere, so we’re going to create an alias to the command. Exit the sqlite> prompt by typing in Ctrl + C, and in the same git-bash terminal without changing folders, run these commands:
+
+echo "alias sqlite3=\"winpty ${PWD}/sqlite3.exe\"" >> ~/.bashrc
+
+and
+
+source ~/.bashrc
+
+The first command will create the alias sqlite3 that you can use to open a database. The second command will refresh your terminal so that you can start using this command. Try typing in the command sqlite3 newdb.sqlite. If you’re presented with a sqlite> prompt, you’ve successfully created the sqlite3 command for your terminal. Enter Ctrl + C to quit. You can also exit by typing .exit in the prompt and pressing Enter.
+
+## machine learning book
+Abbas alshrif : https://www.alsharif.info/iom530
+
+## quick database digram
+https://www.quickdatabasediagrams.com/
