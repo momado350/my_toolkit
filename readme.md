@@ -59,3 +59,12 @@ Abbas alshrif : https://www.alsharif.info/iom530
 
 ## quick database digram
 https://www.quickdatabasediagrams.com/
+
+## erd database digram
+https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+
+## sqlalchemy docs
+https://docs.sqlalchemy.org/en/13/
+
+## colormind
+http://colormind.io/
