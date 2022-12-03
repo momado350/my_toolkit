@@ -68,3 +68,6 @@ https://docs.sqlalchemy.org/en/13/
 
 ## colormind
 http://colormind.io/
+
+## datascienceatthecommandline
+https://datascienceatthecommandline.com/2e/index.html
