@@ -71,3 +71,6 @@ http://colormind.io/
 
 ## datascienceatthecommandline
 https://datascienceatthecommandline.com/2e/index.html
+
+## Free Books
+https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
