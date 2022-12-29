@@ -1,3 +1,5 @@
+## https://medium.com/@anushka.da3/types-of-statistical-tests-b8ceb90e13b3
+## https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/
 Your Guide to Master Hypothesis Testing in Statistics
 download
 Share
